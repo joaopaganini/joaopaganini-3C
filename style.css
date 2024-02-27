@@ -1,0 +1,59 @@
+h1{
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 250%;
+    text-align: center;
+    color: rgb(21, 255, 0);
+   
+  }
+  h1{border-style: solid;
+    border-color: darkred;
+border-width: 4px;}
+
+h1{margin-left: 15%;}
+h1{padding-left: 10%;}
+
+
+  h2 {
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 250%;
+    text-align: center;
+    color: yellow;
+  }
+  
+
+h3 {
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 250%;
+    text-align: center;
+    color:red;
+  }
+  
+  h5 {
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:30%;
+    text-align: center;
+    color:red;
+  }
+
+  .parte1{border-style: solid;
+    border-color: rgb(9, 0, 139);
+border-width: 4px;}
+
+.parte2{border-style: solid;
+    border-color: rgb(139, 0, 132);
+border-width: 4px;}
+.parte2{background-color: rgb(233, 0, 202);}
+
+.parte1{background-color: deepskyblue;}
+
+  body { background-color: #000000;
+  }
+
